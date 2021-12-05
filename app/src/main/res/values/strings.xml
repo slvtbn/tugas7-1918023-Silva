@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TugasPraktikum7</string>
+    <string name="manage_skincare">Manage Skincare</string>
+    <string name="create">create</string>
+    <string name="read">read</string>
+    <string name="inputkan_data_skincare">Inputkan Data Skincare</string>
+    <string name="btn_create">create</string>
+    <string name="update_dan_delete_data_skincare">Update dan Delete Data Skincare</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="nama">Nama</string>
+    <string name="harga">Harga</string>
+</resources>
